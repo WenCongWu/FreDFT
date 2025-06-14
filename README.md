@@ -1,3 +1,3 @@
-# MSFANet
+# FreDFT
 
-This is an object detection project. The code will be made public after the paper is accepted.
+This is a multispectral object detection project. The code will be made public after the paper is accepted.
