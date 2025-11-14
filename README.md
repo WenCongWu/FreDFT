@@ -33,4 +33,13 @@ python test.py
 
 ### 6. Citation our FreDFT
 If you find FreDFT helpful for your research, please consider citing our work.
+```BibTex
+@misc{wu2025fredftfrequencydomainfusion,
+      title={FreDFT: Frequency Domain Fusion Transformer for Visible-Infrared Object Detection}, 
+      author={Wencong Wu and Xiuwei Zhang and Hanlin Yin and Shun Dai and Hongxi Zhang and Yanning Zhang},
+      journal={CoRR},
+      volume={abs/2511.10046}, 
+      year={2025}
+}
+```
 
