@@ -32,3 +32,5 @@ python test.py
 ```
 
 ### 6. Citation our FreDFT
+If you find FreDFT helpful for your research, please consider citing our work.
+
