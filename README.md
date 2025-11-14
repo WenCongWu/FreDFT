@@ -1,5 +1,5 @@
 # FreDFT: Frequency Domain Fusion Transformer for Visible-Infrared Object Detection
-This is an official PyTorch implementation for our FreDFT.
+This is an official PyTorch implementation for our FreDFT. Paper can be download in [FreDFT](https://arxiv.org/abs/2511.10046)
 
 ### 1. Dependences
  Create a conda virtual environment and activate it.
