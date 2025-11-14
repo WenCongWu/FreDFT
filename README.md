@@ -18,3 +18,17 @@ Download our FreDFT weights and create a weights folder to hold them.
 1) FLIR dataset: [FreDFT_FLIR.pt](https://drive.google.com/file/d/1pIr9cFdbXpeLAhanBMoLqN48tWtdUjmK/view?usp=drive_link)
 2) LLVIP dataset: [FreDFT_LLVIP.pt](https://drive.google.com/file/d/1NuHgIarBmKYPACKKTY5F7AuhZsp08m5B/view?usp=drive_link)
 3) M3FD dataset: [FreDFT_M3FD.pt](https://drive.google.com/file/d/1Z90zNNTDbBosfVDLqqlrJY3YQvUS-Qu2/view?usp=drive_link)
+
+### 4. Training our FreDFT
+Dataset path, GPU, batch size, etc., need to be modified according to different situations.
+```
+python train.py
+```
+
+### 5. Test our FreDFT
+
+```
+python test.py
+```
+
+### 6. Citation our FreDFT
