@@ -4,7 +4,7 @@ This is an official PyTorch implementation for our FreDFT.
 ### 1. Dependences
  Create a conda virtual environment and activate it.
  1) conda create --name MOD python=3.9
- 2) conda actiavte MOD
+ 2) conda activate MOD
  3) pip install -r requirements.txt
 
 ### 2. Datasets download
