@@ -13,7 +13,7 @@ Download these datasets and create a dataset folder to hold them.
 2) LLVIP dataset: [LLVIP](https://drive.google.com/file/d/1Bl1_D1T2x4JLu4__VbBjn6WJ3-T1Z99W/view?usp=drive_link)
 3) M3FD dataset: [M3FD](https://drive.google.com/file/d/1FSfAQQ80UvwE7mXKDAxZZnabUrsM9HHD/view?usp=drive_link)
 
-### 3. Weights
+### 3. Pretrained weights
 Download our FreDFT weights and create a weights folder to hold them.
 1) FLIR dataset: [FreDFT_FLIR.pt](https://drive.google.com/file/d/1pIr9cFdbXpeLAhanBMoLqN48tWtdUjmK/view?usp=drive_link)
 2) LLVIP dataset: [FreDFT_LLVIP.pt](https://drive.google.com/file/d/1NuHgIarBmKYPACKKTY5F7AuhZsp08m5B/view?usp=drive_link)
