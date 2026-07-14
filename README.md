@@ -1,5 +1,5 @@
 # FreDFT: Frequency Domain Fusion Transformer for Visible-Infrared Object Detection
-This is an official PyTorch implementation for our FreDFT. ArXiv paper can be download in [FreDFT](https://arxiv.org/abs/2511.10046).
+This is an official PyTorch implementation for our FreDFT. ArXiv paper can be downloaded in [FreDFT](https://arxiv.org/abs/2511.10046). TMM paper can be downloaded in [FreDFT](https://ieeexplore.ieee.org/document/11603995).
 
 Our paper has been accepted by **IEEE Transactions on Multimedia** for publication as a regular paper. The final version of the paper will be updated soon.
 
@@ -35,6 +35,18 @@ python test.py
 
 ### 6. Citation
 If you find FreDFT helpful for your research, please consider citing our work.
+
+```BibTex
+@article{Wu2026,
+  author={Wu, Wencong and Zhang, Xiuwei and Yin, Hanlin and Dai, Shun and Zhang, Hongxi and Zhang, Yanning},
+  journal={IEEE Transactions on Multimedia}, 
+  title={FreDFT: Frequency Domain Fusion Transformer for Visible-Infrared Object Detection}, 
+  year={2026},
+  pages={1-12},
+  doi={10.1109/TMM.2026.3712630}
+}
+```
+
 ```BibTex
 @article{Wu2025,
   title={FreDFT: Frequency Domain Fusion Transformer for Visible-Infrared Object Detection}, 
